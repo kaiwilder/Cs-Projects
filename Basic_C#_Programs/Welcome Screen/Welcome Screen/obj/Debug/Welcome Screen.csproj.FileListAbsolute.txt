@@ -1,0 +1,6 @@
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\Welcome Screen\Welcome Screen\bin\Debug\Welcome Screen.exe.config
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\Welcome Screen\Welcome Screen\bin\Debug\Welcome Screen.exe
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\Welcome Screen\Welcome Screen\bin\Debug\Welcome Screen.pdb
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\Welcome Screen\Welcome Screen\obj\Debug\Welcome Screen.csproj.CoreCompileInputs.cache
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\Welcome Screen\Welcome Screen\obj\Debug\Welcome Screen.exe
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\Welcome Screen\Welcome Screen\obj\Debug\Welcome Screen.pdb
