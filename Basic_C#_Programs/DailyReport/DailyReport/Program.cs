@@ -13,25 +13,25 @@ namespace DailyReport
             Console.WriteLine("The Tech Academy");              //Prints The Tech Academy
             Console.WriteLine("\nStudent Daily Report");        //Skips a line and prints Student Daily Report
             Console.WriteLine("\nWhat is your name?");          //Skips a line and asks the question
-            Console.ReadLine();                                 //Program waits for response
+            string yourName = Console.ReadLine();               //Program waits for response
 
             Console.WriteLine("What course are you in?");
-            Console.ReadLine();                                 //Program waits for response
+            string Course = Console.ReadLine();                 //Saves response as a string       
 
             Console.WriteLine("What page number?");
-            Console.ReadLine();                                 //Program waits for response
+            int page = Convert.ToInt32(Console.ReadLine());     //Saves response as an integer
 
             Console.WriteLine("Do you need help with anything? Please answer \"true\" or \"false.\"");
-            Console.ReadLine();                                //Program waits for response
+            bool help = Convert.ToBoolean(Console.ReadLine());  //Saves response as boolean
 
             Console.WriteLine("Were there any positive experiences you’d like to share? Please give specifics.");
-            Console.ReadLine();                                 //Program waits for response
+            string experiences = Console.ReadLine();            //Saves response as a string
 
             Console.WriteLine("Is there any other feedback you’d like to provide? Please be specific.");
-            Console.ReadLine();                                 //Program waits for response
+            string feedback = Console.ReadLine();               //Saves response as a string
 
             Console.WriteLine("How many hours did you study today?");
-            Console.ReadLine();                                 //Program waits for response
+            int hoursWorked = Convert.ToInt32(Console.ReadLine());//Saves response asan integer
 
             Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly. Have a great day!");
             Console.ReadLine();                                 //Program waits to be closed

@@ -28,29 +28,53 @@ namespace VariablesAndDataTypes
             //Console.WriteLine("Your favorite number plus 5 is: " + total);
             //Console.ReadLine();
 
-            bool isStudying = false;
-            byte hoursWorked = 42;
-            sbyte currentTemp = -23;
-            char questionMark = '\u2103';
+            //bool isStudying = false;
+            //byte hoursWorked = 42;
+            //sbyte currentTemp = -23;
+            //char questionMark = '\u2103';
 
-            decimal moneyInBank = 100.5m;
+            //decimal moneyInBank = 100.5m;
 
-            double heightINCM = 211.32435345;
+            //double heightINCM = 211.32435345;
 
-            float secondsLeft = 2.62f;
+            //float secondsLeft = 2.62f;
 
-            short tempOnMars = -341;
+            //short tempOnMars = -341;
 
-            string myName = "Kai";
+            //string myName = "Kai";
 
-            int currentAge = 25;
-            string yearsOls = currentAge.ToString();
+            //int currentAge = 25;
+            //string yearsOls = currentAge.ToString();
 
-            bool isRaining = true;
-            string rainingStatus = Convert.ToString(isRaining);
-            Console.WriteLine(rainingStatus);
+            //bool isRaining = true;
+            //string rainingStatus = Convert.ToString(isRaining);
+            //Console.WriteLine(rainingStatus);
+            //Console.ReadLine();
+
+
+            //int num1 = 5;
+            //int num2 = 7;
+            //int total = num1 + num2;
+            //Console.WriteLine(total);
+            //Console.ReadLine();
+
+            //int num1 = 5;
+            //int num2 = 7;
+            //int total = num1 - num2;
+            //Console.WriteLine(total);
+            //Console.ReadLine();
+
+            //int num1 = 5;
+            //int num2 = 7;
+            //int total = num1 * num2;
+            //Console.WriteLine(total);
+            //Console.ReadLine();
+
+            int num1 = 12;
+            int num2 = 3;
+            int total = num1 / num2;
+            Console.WriteLine(total);
             Console.ReadLine();
-
-        }
+        }   
     }
 }
