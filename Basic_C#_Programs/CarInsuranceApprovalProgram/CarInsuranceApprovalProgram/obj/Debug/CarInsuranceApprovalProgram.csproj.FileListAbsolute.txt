@@ -1,0 +1,6 @@
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\CarInsuranceApprovalProgram\CarInsuranceApprovalProgram\bin\Debug\CarInsuranceApprovalProgram.exe.config
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\CarInsuranceApprovalProgram\CarInsuranceApprovalProgram\bin\Debug\CarInsuranceApprovalProgram.exe
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\CarInsuranceApprovalProgram\CarInsuranceApprovalProgram\bin\Debug\CarInsuranceApprovalProgram.pdb
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\CarInsuranceApprovalProgram\CarInsuranceApprovalProgram\obj\Debug\CarInsuranceApprovalProgram.csproj.CoreCompileInputs.cache
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\CarInsuranceApprovalProgram\CarInsuranceApprovalProgram\obj\Debug\CarInsuranceApprovalProgram.exe
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\CarInsuranceApprovalProgram\CarInsuranceApprovalProgram\obj\Debug\CarInsuranceApprovalProgram.pdb
