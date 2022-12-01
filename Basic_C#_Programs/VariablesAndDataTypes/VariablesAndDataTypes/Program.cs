@@ -70,11 +70,23 @@ namespace VariablesAndDataTypes
             //Console.WriteLine(total);
             //Console.ReadLine();
 
-            int num1 = 12;
-            int num2 = 3;
-            int total = num1 / num2;
+            //int num1 = 12;
+            //int num2 = 3;
+            //int total = num1 / num2;
+            //Console.WriteLine(total);
+            //Console.ReadLine();
+
+            double num1 = 7.03230923;
+            float num2 = 5.9f;
+            float total = (float)num1 + num2;
             Console.WriteLine(total);
             Console.ReadLine();
+
+            string fname = "Kai";
+            string lname = "Wilder";
+            Console.WriteLine(fname + lname);
+            Console.ReadLine();
+
         }   
     }
 }
