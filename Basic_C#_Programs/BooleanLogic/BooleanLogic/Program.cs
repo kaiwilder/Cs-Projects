@@ -33,54 +33,7 @@ namespace BooleanLogic
 
 
 
-            //using if, else if, and else 
-
-            //string name = "Kai";
-
-            //if (name == "Kai")
-            //{
-            //    Console.WriteLine("Your name is Kai");
-            //}
-            //else if (name == "Rowan")
-            //{
-            //    Console.WriteLine("Your name is Rowan");
-            //}
-            //else if (name == "Pheobe")
-            //{
-            //    Console.WriteLine("Your name is Pheobe");
-            //}
-            //else
-            //{
-            //    Console.WriteLine("Your name is not recognized");
-            //}
-
-            //string name = "Kai";
-            //if (name != "Jesse")
-            //{
-            //    Console.WriteLine("Your name is not Jesse");
-            //}
             
-
-            int age = 25;
-            if (age > 20)
-            {
-                Console.WriteLine("Here is your wine!"); 
-            }
-            else
-            {
-                Console.WriteLine("No you may not have that wine."); 
-            }
-
-            
-            if (age <= 20)
-            {
-                Console.WriteLine("No you may not have that wine.");
-            }
-            else
-            {
-                Console.WriteLine("Here is your wine!");
-            }
-
             Console.ReadLine();
         }
     }
