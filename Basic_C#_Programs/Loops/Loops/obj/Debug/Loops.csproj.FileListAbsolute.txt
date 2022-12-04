@@ -1,0 +1,6 @@
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\Loops\Loops\obj\Debug\Loops.pdb
