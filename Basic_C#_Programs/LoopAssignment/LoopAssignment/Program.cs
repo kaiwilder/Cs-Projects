@@ -19,12 +19,12 @@ namespace LoopAssignment
             //Console.ReadLine();
 
             int i = 0;
-            do
-            {
+            do                             
+            {                              //The code within these {} will be executed at least once
                 Console.WriteLine(i);
-                i++;
+                i++;                       //it then gets the the while statement and learns the restrictions of the loop
             }
-            while (i < 6);
+            while (i < 6);                 //it will still stop once i = 6, and won't print 6 to the console
 
             Console.ReadLine();
         }
