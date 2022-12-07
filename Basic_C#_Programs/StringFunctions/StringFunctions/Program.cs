@@ -45,7 +45,7 @@ namespace StringFunctions
             name = name.ToUpper();
             Console.WriteLine(name);
 
-            StringBuilder sb = new StringBuilder();
+            StringBuilder sb = new StringBuilder();                      //using string builder to alter the string, not create a new one that takes up memory
             sb.Append("This is my string Builder Paragragh, ");
             sb.Append("Written one line at a time. ");
             sb.Append("If this rewrites the string, why does it print the previously written strings?");
