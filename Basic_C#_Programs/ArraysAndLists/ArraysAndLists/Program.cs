@@ -19,6 +19,8 @@ class Program
 
         Console.WriteLine(intList[0]);
         Console.ReadLine();
+
+        //bool[] byteArray
         
         
         //int[] numArray = new int[5];
