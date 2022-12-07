@@ -1,1 +1,6 @@
 C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\Array_Project\Array_Project\obj\Debug\Array_Project.csproj.CoreCompileInputs.cache
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\Array_Project\Array_Project\bin\Debug\Array_Project.exe.config
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\Array_Project\Array_Project\bin\Debug\Array_Project.exe
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\Array_Project\Array_Project\bin\Debug\Array_Project.pdb
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\Array_Project\Array_Project\obj\Debug\Array_Project.exe
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\Array_Project\Array_Project\obj\Debug\Array_Project.pdb
