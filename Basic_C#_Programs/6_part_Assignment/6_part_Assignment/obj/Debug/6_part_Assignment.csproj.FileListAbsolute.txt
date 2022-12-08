@@ -1,0 +1,7 @@
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\6_part_Assignment\6_part_Assignment\bin\Debug\6_part_Assignment.exe.config
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\6_part_Assignment\6_part_Assignment\bin\Debug\6_part_Assignment.exe
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\6_part_Assignment\6_part_Assignment\bin\Debug\6_part_Assignment.pdb
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\6_part_Assignment\6_part_Assignment\obj\Debug\6_part_Assignment.csproj.AssemblyReference.cache
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\6_part_Assignment\6_part_Assignment\obj\Debug\6_part_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\6_part_Assignment\6_part_Assignment\obj\Debug\6_part_Assignment.exe
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\6_part_Assignment\6_part_Assignment\obj\Debug\6_part_Assignment.pdb

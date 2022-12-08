@@ -45,31 +45,31 @@ class Program
         //}
         //Console.ReadLine();
 
-        //List<string> names = new List<string>() {  "Jesse", "Erik", "Daniel", "Adam" };
+        List<string> names = new List<string>() { "Jesse", "Erik", "Daniel", "Adam" };
 
-        //foreach (string name in names)
-        //{
-        //    //if ( name == "Jesse")
-        //    //{
-        //    //    Console.WriteLine(name);
-        //    //}
-        //    Console.WriteLine(name);
-        //}
-        //Console.ReadLine();
-
-        List<int> testScores = new List<int>() { 98, 99, 12, 74, 23, 99 };
-        List<int> passingScores = new List<int>();
-
-        foreach (int score in testScores)
+        foreach (string name in names)
         {
-            if (score > 85 )
+            if (name == "Jesse")
             {
-                passingScores.Add(score);
+                Console.WriteLine(name);
             }
+            //Console.WriteLine(name);
         }
-
-        Console.WriteLine(passingScores.Count);
         Console.ReadLine();
+
+        //List<int> testScores = new List<int>() { 98, 99, 12, 74, 23, 99 };
+        //List<int> passingScores = new List<int>();
+
+        //foreach (int score in testScores)
+        //{
+        //    if (score > 85 )
+        //    {
+        //        passingScores.Add(score);
+        //    }
+        //}
+
+        //Console.WriteLine(passingScores.Count);
+        //Console.ReadLine();
 
     }
 }
