@@ -1,0 +1,6 @@
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\StringAndIntegersAssignment\StringAndIntegersAssignment\bin\Debug\StringAndIntegersAssignment.exe.config
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\StringAndIntegersAssignment\StringAndIntegersAssignment\bin\Debug\StringAndIntegersAssignment.exe
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\StringAndIntegersAssignment\StringAndIntegersAssignment\bin\Debug\StringAndIntegersAssignment.pdb
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\StringAndIntegersAssignment\StringAndIntegersAssignment\obj\Debug\StringAndIntegersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\StringAndIntegersAssignment\StringAndIntegersAssignment\obj\Debug\StringAndIntegersAssignment.exe
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\StringAndIntegersAssignment\StringAndIntegersAssignment\obj\Debug\StringAndIntegersAssignment.pdb

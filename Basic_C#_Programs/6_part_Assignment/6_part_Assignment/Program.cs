@@ -65,6 +65,20 @@ namespace _6_part_Assignment
             ////a loop that iterates thru the list, displays index of matching text
             //foreach (string fruit in fruits)
             //{
+            //    if (guess == fruit) //if the guess is in the list
+            //    {
+            //        Console.WriteLine(guess + " found at index: " + fruits.IndexOf(fruit));
+            //        break;
+            //    }
+            //    if (!fruits.Contains(guess))
+            //    {
+            //        Console.WriteLine("Fruit not found");   //if the guess in NOT in the list
+            //        break;
+            //    }
+            //}
+            //Console.ReadLine();
+
+            //The below code works, but is not the most efficient way to code this
             //    if (guess == "apple")
             //    {
             //        Console.WriteLine("index 0");
@@ -90,89 +104,41 @@ namespace _6_part_Assignment
             //        Console.WriteLine("Whoops! Your fruit is not in the list");
             //        break;
             //    }
-            //}
-            //Console.ReadLine();
 
-            //Assignment part 5
-            //a list of strings with 2 identical values
+
+            ////Assignment part 5
+            ////a list of strings with 2 identical values
             //List<string> cars = new List<string>() { "Volvo", "BMW", "Ford", "Mazda", "BMW" };
             //Console.WriteLine("Select Volvo, BMW, Ford, or Mazda");
             //string c = Console.ReadLine();
+            
             ////a loop that iterates thru the list
-            //foreach (var car in cars)
-            //{
-                    //cant decide which I should use
-                //switch (car)
-                //{
-                //    case "Volvo":
-                //        Console.WriteLine("index 0");
-                //        break;
-                //    case "BMW":
-                //        Console.WriteLine("index 1");
-                //        break;
-                //    case "Ford":
-                //        Console.WriteLine("index 2");
-                //        break;
-                //    case "Mazda":
-                //        Console.WriteLine("index 3");
-                //        break;
-                //    //case "BMW":
-                //    //Console.WriteLine("index 4");
-                //    //break;
-                //    default:
-                //        Console.WriteLine("Car is not on the list");
-                //        break;
-                //}
-
-            //    if (c == "Volvo")
+            //for (int i = 0; i < cars.Count; i++)   //using i as the index number because IndexOf() only 
+            //{                                      //outputs first instance of a value
+            //    if (cars[i] == c)
             //    {
-            //        Console.WriteLine("index 0");
-            //        break;
-            //    }
-            //    else if (c == "BMW")
-            //    {
-            //        Console.WriteLine("index 1");
-            //        break;
-            //    }
-            //    else if (c == "Ford")
-            //    {
-            //        Console.WriteLine("index 2");
-            //        break;
-            //    }
-            //    else if (c == "Mazda")
-            //    {
-            //        Console.WriteLine("index 3");
-            //        break;
-            //    }
-            //    else if (c == "BMW")
-            //    {
-            //        Console.WriteLine("index 4");
-            //        break;
-            //    }
-            //    else
-            //    {
-            //        Console.WriteLine("Car is not on the list");
-            //        break;
+            //        Console.WriteLine(c + " found at index: " + i);
             //    }
             //}
             //Console.ReadLine();
 
 
             //Assignment part 6
-            
-            List<string> letters = new List<string>();
-            letters.Add("A");// - this item is unique");
-            letters.Add("B");// - this item is unique");
-            letters.Add("C");// - this item is unique");
-            letters.Add("D");// - this item is unique");
-            letters.Add("C");// - this item is a duplicate");
+
+            List<string> letters = new List<string>() { "A", "B", "C", "D", "C"};
+            List<string> newLetters = new List<string>();
 
             foreach (string letter in letters)
             {
-                if (letters.Count() > 1);
+                if (newLetters.Contains(letter)) 
                 {
-                    Console.WriteLine("The value exists multiple times in the list");
-                }                
+                    Console.WriteLine("This value already exists in the list");
+                }
+                else if (!newLetters.Contains(letter))
+                {
+                    Console.WriteLine("This value is not already in the list");
+                    newLetters.Add(letter);
+                }
             }
             Console.ReadLine();
         }

@@ -34,9 +34,6 @@ namespace Array_Project
                 Console.WriteLine("Please pick a number between 0 and 3");
             }
 
-            
-
-
 
             int[] intArray1 = { 3, 7, 15, 26, };
             Console.WriteLine("Select an index of the array (0-3)");
