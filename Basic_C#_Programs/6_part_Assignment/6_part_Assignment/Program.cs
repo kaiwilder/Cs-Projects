@@ -70,11 +70,10 @@ namespace _6_part_Assignment
             //        Console.WriteLine(guess + " found at index: " + fruits.IndexOf(fruit));
             //        break;
             //    }
-            //    if (!fruits.Contains(guess))
-            //    {
-            //        Console.WriteLine("Fruit not found");   //if the guess in NOT in the list
-            //        break;
-            //    }
+            //}
+            //if (!fruits.Contains(guess))
+            //{
+            //    Console.WriteLine("Fruit not found");   //if the guess in NOT in the list
             //}
             //Console.ReadLine();
 
@@ -106,41 +105,46 @@ namespace _6_part_Assignment
             //    }
 
 
-            ////Assignment part 5
-            ////a list of strings with 2 identical values
-            //List<string> cars = new List<string>() { "Volvo", "BMW", "Ford", "Mazda", "BMW" };
-            //Console.WriteLine("Select Volvo, BMW, Ford, or Mazda");
-            //string c = Console.ReadLine();
+            //Assignment part 5
+            //a list of strings with 2 identical values
+            List<string> cars = new List<string>() { "Volvo", "BMW", "Ford", "Mazda", "BMW" };
+            Console.WriteLine("Select Volvo, BMW, Ford, or Mazda");
+            string c = Console.ReadLine();
+
+            //a loop that iterates thru the list
+            for (int i = 0; i < cars.Count; i++)   //using i as the index number because IndexOf() only 
+            {                                      //outputs first instance of a value
+                if (cars[i] == c)
+                {
+                    Console.WriteLine(c + " found at index: " + i);
+                }
+            }
             
-            ////a loop that iterates thru the list
-            //for (int i = 0; i < cars.Count; i++)   //using i as the index number because IndexOf() only 
-            //{                                      //outputs first instance of a value
-            //    if (cars[i] == c)
-            //    {
-            //        Console.WriteLine(c + " found at index: " + i);
-            //    }
-            //}
-            //Console.ReadLine();
+            if (!cars.Contains(c))
+            {
+                Console.WriteLine("Car not found in list");
+            }
+            Console.ReadLine();
 
 
             //Assignment part 6
 
-            List<string> letters = new List<string>() { "A", "B", "C", "D", "C"};
-            List<string> newLetters = new List<string>();
+            //List<string> letters = new List<string>() { "A", "B", "C", "D", "C"};
+            //List<string> newLetters = new List<string>();
 
-            foreach (string letter in letters)
-            {
-                if (newLetters.Contains(letter)) 
-                {
-                    Console.WriteLine("This value already exists in the list");
-                }
-                else if (!newLetters.Contains(letter))
-                {
-                    Console.WriteLine("This value is not already in the list");
-                    newLetters.Add(letter);
-                }
-            }
-            Console.ReadLine();
+            //foreach (string letter in letters)
+            //{
+            //    if (newLetters.Contains(letter)) 
+            //    {
+            //        Console.WriteLine("This value already exists in the list");
+            //    }
+            //    else if (!newLetters.Contains(letter))
+            //    {
+            //        Console.WriteLine("This value is not already in the list");
+            //        newLetters.Add(letter);
+            //    }
+            //}
+            //Console.ReadLine();
         }
     }
 }
