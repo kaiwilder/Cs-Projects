@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MainMethodAssignment
 {
-    class Math
+    public class Math
     {
         //This method takes in an integer and adds 5, returns the total
         public int One(int x)  

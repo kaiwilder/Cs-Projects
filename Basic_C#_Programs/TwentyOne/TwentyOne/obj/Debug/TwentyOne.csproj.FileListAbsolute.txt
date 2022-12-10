@@ -1,0 +1,7 @@
+C:\Users\kaiwi\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\kaiwi\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\kaiwi\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\kaiwi\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\kaiwi\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\kaiwi\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\kaiwi\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
