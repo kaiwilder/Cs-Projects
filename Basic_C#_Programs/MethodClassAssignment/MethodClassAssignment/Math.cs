@@ -8,10 +8,10 @@ namespace MethodClassAssignment
 {
     public class Math
     {
-        public void Three(int a, int b)
+        public void Three(int num1, int num2)
         {
-            int c = a * 3;
-            Console.WriteLine(b);
+            int a = num1 * 3;
+            Console.WriteLine(num2);
         }
     }
 }

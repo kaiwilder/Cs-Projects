@@ -10,6 +10,7 @@ namespace MethodAssignment2
     {
         static void Main(string[] args)
         {
+
             Optionals MyMethod = new Optionals();
 
             Console.WriteLine("Enter up to 2 numbers, the second is optional. They will be multiplied together.");
