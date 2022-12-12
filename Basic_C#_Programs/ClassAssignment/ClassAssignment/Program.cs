@@ -8,17 +8,21 @@ namespace ClassAssignment
 {
     class Program
     {
-        public static void Sum(out int G)
-        {
-            G = 80;
-            G += G;
-        }
         static void Main(string[] args)
         {
-            int g;
-            Sum (out g);
-            Console.WriteLine("The sum of" +
-                " the value is: {0}", g);
+            Methods MyMethod = new Methods();
+
+            Console.WriteLine("Enter a number: ");
+            int num1 = Convert.ToInt32(Console.ReadLine());
+
+            MyMethod.Divide(num1);
+            Console.ReadLine();
+
+            Console.WriteLine("Enter 2 Numbers");
+            int a = Convert.ToInt32(Console.ReadLine());
+            int b = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine(MyMethod.Divide(a, b));
             Console.ReadLine();
         }
     }

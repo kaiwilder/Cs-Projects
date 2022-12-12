@@ -10,12 +10,13 @@ namespace MethodAssignment2
     {
         static void Main(string[] args)
         {
+            Optionals MyMethod = new Optionals();
+
+            Console.WriteLine("Enter up to 2 numbers, the second is optional. They will be multiplied together.");
+            int a = Convert.ToInt32(Console.ReadLine());
+
             try
             {
-                Optionals MyMethod = new Optionals();
-
-                Console.WriteLine("Enter up to 2 numbers, the second is optional. They will be multiplied together.");
-                int a = Convert.ToInt32(Console.ReadLine());
                 int b = Convert.ToInt32(Console.ReadLine());
 
                 Console.WriteLine(MyMethod.Two(a, b));
@@ -23,9 +24,9 @@ namespace MethodAssignment2
             }
             catch (FormatException)
             {
-                
+                Console.WriteLine(MyMethod.Two(a));
+                Console.ReadLine();
             }
-
         }   
     }
 }
