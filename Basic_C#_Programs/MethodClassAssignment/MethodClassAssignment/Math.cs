@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace MethodClassAssignment
 {
-    class Math
+    public class Math
     {
+        public void Three(int a, int b)
+        {
+            int c = a * 3;
+            Console.WriteLine(b);
+        }
     }
 }
