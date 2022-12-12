@@ -16,13 +16,14 @@ namespace ClassAssignment
             int num1 = Convert.ToInt32(Console.ReadLine());
 
             MyMethod.Divide(num1);
-            Console.ReadLine();
 
             Console.WriteLine("Enter 2 Numbers");
             int a = Convert.ToInt32(Console.ReadLine());
             int b = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine(MyMethod.Divide(a, b));
+
+            Statics.DisplayStatement();
             Console.ReadLine();
         }
     }
