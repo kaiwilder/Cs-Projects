@@ -14,16 +14,16 @@ namespace MainMethodAssignment
             return 5 + x;
         }
         //takes in a decimal, converts total to an integer
-        public decimal One(decimal y)
+        public int One(decimal y)
         {
             int z = Decimal.ToInt32(y);
             return 8 + z;
         }
         //supposed to take in a string, convert it to an integer to do math to it
-        public string One(string w)
+        public int One(string w)
         {
             int a = Convert.ToInt32(w);
-            string b = Convert.ToString(2 * a);
+            int b = (2 * a);
             return b;
         }
     }
