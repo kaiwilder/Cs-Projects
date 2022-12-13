@@ -17,11 +17,10 @@ namespace ClassAssignment
 
             MyMethod.Divide(num1);
 
-            Console.WriteLine("Enter 2 Numbers");
+            Console.WriteLine("Enter another number: ");
             int a = Convert.ToInt32(Console.ReadLine());
-            int b = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine(MyMethod.Divide(a, b));
+            Console.WriteLine(MyMethod.Divide(a, out int num2));
 
             Statics.DisplayStatement();
             Console.ReadLine();

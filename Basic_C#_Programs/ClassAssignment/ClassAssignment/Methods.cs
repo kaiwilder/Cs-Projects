@@ -13,8 +13,9 @@ namespace ClassAssignment
             Console.WriteLine(num1 / 2);
         }
         //a method with output parameters (i think?)
-        public int Divide(int num1, int num2)
+        public int Divide(int num1, out int num2)
         {
+            num2 = 3;
             return num1 / num2;
         }
     }
