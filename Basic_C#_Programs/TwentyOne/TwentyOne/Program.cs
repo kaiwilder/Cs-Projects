@@ -15,24 +15,24 @@ namespace TwentyOne
             //game.Players = new List<string>() { "Jesse", "Jill", "Bob" };
             //game.ListPlayers();
             //Console.ReadLine();
-            TwentyOneGame game = new TwentyOneGame();
-            game.Players = new List<string>() { "Jesse", "Bill", "Joe" };
-            game.ListPlayers();
-            Console.ReadLine();
-
-            //Deck deck = new Deck();
-            //deck.Shuffle(3);
-
-            ////int timesShuffled = 0;
-            ////deck = Shuffle(deck, out timesShuffled, times: 3);
-
-            //foreach (Card card in deck.Cards)
-            //{
-            //    Console.WriteLine(card.Face + " of " + card.Suit);
-            //}
-            //Console.WriteLine(deck.Cards.Count);
-            ////Console.WriteLine("Times shuffled: {0} ", timesShuffled);
+            //TwentyOneGame game = new TwentyOneGame();
+            //game.Players = new List<string>() { "Jesse", "Bill", "Joe" };
+            //game.ListPlayers();
             //Console.ReadLine();
+
+            Deck deck = new Deck();
+            deck.Shuffle(3);
+
+            //int timesShuffled = 0;
+            //deck = Shuffle(deck, out timesShuffled, times: 3);
+
+            foreach (Card card in deck.Cards)
+            {
+                Console.WriteLine(card.Face + " of " + card.Suit);
+            }
+            Console.WriteLine(deck.Cards.Count);
+            //Console.WriteLine("Times shuffled: {0} ", timesShuffled);
+            Console.ReadLine();
         }
 
         

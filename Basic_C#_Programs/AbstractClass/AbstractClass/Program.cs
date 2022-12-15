@@ -17,7 +17,9 @@ namespace AbstractClass
 
             EName.SayName();
 
-            EName.Quit(); 
+            IQuitTable quitter = new Employee();
+            quitter.Quit();
+
             Console.ReadLine();
         }
     }
