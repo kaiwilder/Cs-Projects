@@ -16,6 +16,8 @@ namespace AbstractClass
             EName.lastName = "Student";
 
             EName.SayName();
+
+            EName.Quit(); 
             Console.ReadLine();
         }
     }

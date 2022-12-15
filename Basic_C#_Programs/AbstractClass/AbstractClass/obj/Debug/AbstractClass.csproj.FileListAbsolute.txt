@@ -5,3 +5,10 @@ C:\Users\kaiwi\source\repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.
 C:\Users\kaiwi\source\repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
 C:\Users\kaiwi\source\repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
 C:\Users\kaiwi\source\repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.AssemblyReference.cache
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
