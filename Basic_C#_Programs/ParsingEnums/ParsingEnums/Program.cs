@@ -25,35 +25,37 @@ namespace ParsingEnums
                 Console.WriteLine("Enter the Day of the Week: ");
                 string value = Console.ReadLine();
                 Days day = (Days)Enum.Parse(typeof(Days), value);
-                if (day == Days.Sunday)
-                {
-                    Console.WriteLine("You said today is Sunday");
-                }
-                else if (day == Days.Monday)
-                {
-                    Console.WriteLine("You said today is Monday");
-                }
-                else if (day == Days.Tuesday)
-                {
-                    Console.WriteLine("You said today is Tuesday");
-                }
-                else if (day == Days.Wednesday)
-                {
-                    Console.WriteLine("You said today is Wednesday");
-                }
-                else if (day == Days.Thursday)
-                {
-                    Console.WriteLine("You said today is Thursday");
-                }
-                else if (day == Days.Friday)
-                {
-                    Console.WriteLine("You said today is Friday");
-                }
-                else if (day == Days.Saturday)
-                {
-                    Console.WriteLine("You said today is Saturday");
-                }
+                Console.WriteLine("You said today is " + day);
                 Console.ReadLine();
+                //if (day == Days.Sunday)
+                //{
+                //    Console.WriteLine("You said today is Sunday");
+                //}
+                //else if (day == Days.Monday)
+                //{
+                //    Console.WriteLine("You said today is Monday");
+                //}
+                //else if (day == Days.Tuesday)
+                //{
+                //    Console.WriteLine("You said today is Tuesday");
+                //}
+                //else if (day == Days.Wednesday)
+                //{
+                //    Console.WriteLine("You said today is Wednesday");
+                //}
+                //else if (day == Days.Thursday)
+                //{
+                //    Console.WriteLine("You said today is Thursday");
+                //}
+                //else if (day == Days.Friday)
+                //{
+                //    Console.WriteLine("You said today is Friday");
+                //}
+                //else if (day == Days.Saturday)
+                //{
+                //    Console.WriteLine("You said today is Saturday");
+                //}
+                //Console.ReadLine();
             }
             catch
             {

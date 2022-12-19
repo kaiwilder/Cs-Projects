@@ -1,0 +1,7 @@
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\OperatorsAssignment\OperatorsAssignment\bin\Debug\OperatorsAssignment.exe.config
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\OperatorsAssignment\OperatorsAssignment\bin\Debug\OperatorsAssignment.exe
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\OperatorsAssignment\OperatorsAssignment\bin\Debug\OperatorsAssignment.pdb
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.csproj.AssemblyReference.cache
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.exe
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.pdb

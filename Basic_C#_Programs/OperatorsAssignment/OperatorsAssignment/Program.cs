@@ -19,6 +19,10 @@ namespace OperatorsAssignment
             Person2.FirstName = "Jane";
             Person2.LastName = "Doe";
             Person2.Id = 58923;
+
+            Console.WriteLine(Person1 == Person2);
+            Console.ReadLine();
+
         }
     }
 }

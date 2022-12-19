@@ -12,13 +12,13 @@ namespace OperatorsAssignment
         public string LastName;
         public int Id;
 
-        public static Employee operator ==(Employee Id)
+        public static bool operator ==(Employee e1, Employee e2)
         {
-            if ( == ) ;
+            return e1.Id == e2.Id;
         }
-        public static Employee operator !=(Employee Id)
+        public static bool operator !=(Employee e1, Employee e2)
         {
-            if ( != ) ;
+            return e1.Id != e2.Id; 
         }
     }
 }
