@@ -10,7 +10,7 @@ namespace LambdaAssignment
     {
         static void Main(string[] args)
         {
-            Employee employeeList = new List<Employee>()
+            List<Employee> employeeList = new List<Employee>()
             {
                 new Employee(){ID = 1, firstName = "Joe", lastName = "Jacob"},
                 new Employee(){ID = 2, firstName = "Joe", lastName = "Johnson"},
@@ -23,15 +23,15 @@ namespace LambdaAssignment
                 new Employee(){ID = 9, firstName = "Julie", lastName = "Sharp"},
                 new Employee(){ID = 10, firstName = "Harrison", lastName = "James"},
             };
-            Employee newEmployeeList = new List<Employee>();
-            foreach (string person in employeeList) 
+            List <Employee> newEmployeeList = new List<Employee>();
+            foreach (Employee person in employeeList) 
             {
-                if (Employee.firstName == "Joe")
-                    newEmployeeList.Add();
+                if (employeeList.firstName == "Joe")
+                    newEmployeeList.Add(person);
             }
             List<string> LambdaExpression = employeeList.FindAll(x => Employee == "Joe");
 
-            List<string> LastList = employeeList.FindAll(x => Employee.Id > 5);
+            List<string> LastList = employeeList.FindAll(x => Employee.ID > 5);
             //Console.WriteLine();
             Console.ReadLine();
         }
