@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LambdaAssignment
 {
-    public class Employee
+    public class Employee<T>
     {
         public int ID;
         public string firstName;
