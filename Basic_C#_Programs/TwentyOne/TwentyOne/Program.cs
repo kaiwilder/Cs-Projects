@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace TwentyOne
 {
@@ -10,27 +11,33 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            
-            Deck deck = new Deck();
+            DateTime yearOfBirth = new DateTime(1995, 5, 23, 8, 32, 45);
+            DateTime yearOfGraduation = new DateTime(2013, 6, 1, 16, 34, 22);
 
-            //int count = deck.Cards.Count(x => x.Face == Face.Ace);
+            TimeSpan ageAtGraduation = yearOfGraduation - yearOfBirth;
 
-            List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
 
-            List<int> numberList = new List<int>() { 1, 2, 3, 535, 342, 23 };
-            int sum = numberList.Where(x => x >20);
-
-            Console.WriteLine(sum);
-            
-
-            //deck.Shuffle(3);
-
-            //foreach (Card card in deck.Cards)
-            //{
-            //    Console.WriteLine(card.Face + " of " + card.Suit);
-            //}
-            //Console.WriteLine(deck.Cards.Count);
-            Console.ReadLine();
+            Console.WriteLine("Welcome. What is your name?");
+            string playerName = Console.ReadLine();
+            Console.WriteLine("How much money did you bring today?");
+            int bank = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Hello, {0}. Would you like to join a game of 21 right now?", playerName);
+            string answer = Console.ReadLine().ToLower();
+            if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
+            {
+                Player player = new Player(playerName, bank);
+                Game game = new TwentyOneGame();
+                game += player;
+                player.isActivelyPlaying = true;
+                while (player.isActivelyPlaying && player.Balance > 0)
+                {
+                    game.Play();
+                }
+                game -= player;
+                Console.WriteLine("Thank you for playing!");
+            }
+            Console.WriteLine("Bye for now.");
+            Console.Read();
         }
     }
 }

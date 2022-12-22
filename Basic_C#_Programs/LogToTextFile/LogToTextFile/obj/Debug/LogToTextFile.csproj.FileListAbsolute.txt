@@ -1,0 +1,7 @@
+C:\Users\kaiwi\source\repos\LogToTextFile\LogToTextFile\bin\Debug\LogToTextFile.exe.config
+C:\Users\kaiwi\source\repos\LogToTextFile\LogToTextFile\bin\Debug\LogToTextFile.exe
+C:\Users\kaiwi\source\repos\LogToTextFile\LogToTextFile\bin\Debug\LogToTextFile.pdb
+C:\Users\kaiwi\source\repos\LogToTextFile\LogToTextFile\obj\Debug\LogToTextFile.csproj.AssemblyReference.cache
+C:\Users\kaiwi\source\repos\LogToTextFile\LogToTextFile\obj\Debug\LogToTextFile.csproj.CoreCompileInputs.cache
+C:\Users\kaiwi\source\repos\LogToTextFile\LogToTextFile\obj\Debug\LogToTextFile.exe
+C:\Users\kaiwi\source\repos\LogToTextFile\LogToTextFile\obj\Debug\LogToTextFile.pdb
