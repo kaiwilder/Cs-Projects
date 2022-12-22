@@ -26,12 +26,20 @@ namespace LambdaAssignment
             List <Employee> newEmployeeList = new List<Employee>();
             foreach (Employee person in employeeList) 
             {
-                if (employeeList.firstName == "Joe")
+                if (person.firstName == "Joe")
                     newEmployeeList.Add(person);
             }
-            List<string> LambdaExpression = employeeList.FindAll(x => Employee == "Joe");
+            List<Employee> LambdaExpression = employeeList.FindAll(x => x.firstName == "Joe").ToList();
+            foreach (Employee person in LambdaExpression)
+            {
+                    Console.WriteLine(person.firstName);
+            }
 
-            List<string> LastList = employeeList.FindAll(x => Employee.ID > 5);
+            List<Employee> LastList = employeeList.FindAll(x => x.ID > 5).ToList();
+            foreach (Employee person in LastList)
+            {
+                Console.WriteLine(person.ID);
+            }
             //Console.WriteLine();
             Console.ReadLine();
         }
