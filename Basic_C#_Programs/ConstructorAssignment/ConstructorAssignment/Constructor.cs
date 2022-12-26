@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace ConstructorAssignment
 {
-    interface IWalkAway
+    class Constructor
     {
-        void WalkAway(Player player);
     }
 }
