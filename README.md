@@ -4,9 +4,9 @@ Main Projects created with C sharp
 
 ## Projects
 
-* Newsletter
-* Car Insurance
-* Twenty One Game
+* [Newsletter](Basic_C%23_Programs/NewsletterAppMvc)
+* [Car Insurance](Basic_C%23_Programs/CarInsurance)
+* [Twenty One Game](Basic_C%23_Programs/TwentyOne)
 
 ### Newsletter
 
