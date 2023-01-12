@@ -12,7 +12,7 @@ namespace BasicStudentDatabase
         {
             using (var ctx = new SchoolContext())
             {
-                var stud = new Student() { StudentName = "Billy" };
+                var stud = new Student() { StudentName = "Carter" };
 
                 ctx.Students.Add(stud);
                 ctx.SaveChanges();

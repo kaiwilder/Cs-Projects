@@ -10,3 +10,15 @@ C:\Users\kaiwi\source\repos\BasicStudentDatabase\BasicStudentDatabase\obj\Debug\
 C:\Users\kaiwi\source\repos\BasicStudentDatabase\BasicStudentDatabase\obj\Debug\BasicStudentDatabase.csproj.CopyComplete
 C:\Users\kaiwi\source\repos\BasicStudentDatabase\BasicStudentDatabase\obj\Debug\BasicStudentDatabase.exe
 C:\Users\kaiwi\source\repos\BasicStudentDatabase\BasicStudentDatabase\obj\Debug\BasicStudentDatabase.pdb
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\BasicStudentDatabase\BasicStudentDatabase\bin\Debug\BasicStudentDatabase.exe.config
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\BasicStudentDatabase\BasicStudentDatabase\bin\Debug\BasicStudentDatabase.exe
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\BasicStudentDatabase\BasicStudentDatabase\bin\Debug\BasicStudentDatabase.pdb
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\BasicStudentDatabase\BasicStudentDatabase\bin\Debug\EntityFramework.dll
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\BasicStudentDatabase\BasicStudentDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\BasicStudentDatabase\BasicStudentDatabase\bin\Debug\EntityFramework.xml
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\BasicStudentDatabase\BasicStudentDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\BasicStudentDatabase\BasicStudentDatabase\obj\Debug\BasicStudentDatabase.csproj.AssemblyReference.cache
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\BasicStudentDatabase\BasicStudentDatabase\obj\Debug\BasicStudentDatabase.csproj.CoreCompileInputs.cache
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\BasicStudentDatabase\BasicStudentDatabase\obj\Debug\BasicStudentDatabase.csproj.CopyComplete
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\BasicStudentDatabase\BasicStudentDatabase\obj\Debug\BasicStudentDatabase.exe
+C:\Users\kaiwi\OneDrive\Documents\GitHub\Cs-Projects\Basic_C#_Programs\BasicStudentDatabase\BasicStudentDatabase\obj\Debug\BasicStudentDatabase.pdb
